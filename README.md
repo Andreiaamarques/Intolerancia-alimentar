@@ -1,4 +1,4 @@
-##  Receitas sem Surpresas: Um Guia Rápido para o Seu README.md
+##  Receitas sem Surpresas: Um Guia Rápido para o Seu README.md - Imersão Dev com Google Gemini
 
 ###  O que essa aplicação faz?
 
